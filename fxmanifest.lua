@@ -6,12 +6,13 @@ author 'spyke'
 
 client_scripts {
 	'client/cl_main.lua',
+	'client/cl_config.lua'
 }
 
 server_scripts {
 
 	'server/sv_main.lua',
-	'sv_config.lua',
-	--'server/sv_create.lua' Enable this if you want to place the presents
+	'server/sv_config.lua',
+	--'server/sv_create.lua' --Enable this if you want to place the presents
 
 } 
